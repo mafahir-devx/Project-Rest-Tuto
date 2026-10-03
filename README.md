@@ -9,19 +9,25 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 **[https://mafahir-devx.github.io/Project-Rest-Tuto/](https://mafahir-devx.github.io/Project-Rest-Tuto/)**
+
+---
+
 ## 🚀 Overview
 
-**Project Rest-Tuto** combines futuristic 3D WebGL graphics with a sleek, high-performance web dashboard interface. Designed as an interactive documentation and tutorial platform for modern RESTful APIs, it features smooth view transitions, particle cursors, glassmorphism UI elements, and interactive 3D camera controls.
+**Project Rest-Tuto** combines futuristic 3D WebGL graphics with a sleek, high-performance web dashboard interface[cite: 9]. Designed as an interactive documentation and tutorial platform for modern RESTful APIs, it features smooth view transitions, particle cursors, glassmorphism UI elements, and interactive 3D camera controls[cite: 9].
 
 ---
 
 ## ✨ Key Features
 
-* 💎 **Interactive 3D Scene**: Custom WebGL environment built with Three.js, featuring floating glass geometric meshes, ambient lighting toggles, and mouse parallax.
-* 🎯 **Custom Cursor & Particle Trail**: Dynamic canvas-based cursor trail with hover reactions on interactive UI targets.
-* 📱 **Multi-Page Experience (SPA)**: Fluid view switcher navigating between *Home*, *Tutorials*, *API Docs*, and *Showcase* without reloading.
+* 💎 **Interactive 3D Scene**: Custom WebGL environment built with Three.js, featuring floating glass geometric meshes, ambient lighting toggles, and mouse parallax[cite: 9].
+* 🎯 **Custom Cursor & Particle Trail**: Dynamic canvas-based cursor trail with hover reactions on interactive UI targets[cite: 9].
+* 📱 **Multi-Page Experience (SPA)**: Fluid view switcher navigating between *Home*, *Features*, *3D Studio*, *Tutorials*, and *Contact* without page reloads[cite: 9].
 * 📚 **Interactive Code Reader**: Full syntax-highlighted tutorial panel for REST API endpoints, JSON responses, and JavaScript snippets.
-* 🎨 **Glassmorphism UI**: High-gloss dark mode styling powered by Tailwind CSS utilities.
+* 🎨 **Glassmorphism UI**: High-gloss dark mode styling powered by Tailwind CSS utilities[cite: 9].
 * ⚡ **Responsive & Lightweight**: Optimized canvas rendering for high FPS across desktop and mobile devices.
 
 ---
@@ -29,15 +35,15 @@
 ## 🛠️ Tech Stack
 
 * **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-* **3D Graphics Engine**: Three.js
-* **Styling & Components**: Tailwind CSS, Lucide Icons
+* **3D Engine**: Three.js
+* **Styling**: Tailwind CSS, Lucide Icons
 * **Deployment**: GitHub Pages
 
 ---
 
-## 💻 Quick Start & Local Preview
+## 💻 Local Setup & Preview
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mafahir-devx/Project-Rest-Tuto.git](https://github.com/mafahir-devx/Project-Rest-Tuto.git)
+   git clone [https://github.com/mafahir-devx.github.io/Project-Rest-Tuto.git](https://github.com/mafahir-devx.github.io/Project-Rest-Tuto.git)
    cd Project-Rest-Tuto
